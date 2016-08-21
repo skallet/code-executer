@@ -1,0 +1,39 @@
+body {
+  width: 600px;
+  padding: 5px;
+}
+
+ul {
+  list-style: none;
+  margin: 10px 0;
+  padding: 0;
+}
+
+ul li {
+
+}
+
+ul li a {
+  padding: 0 10px;
+  font-size: 110%;
+}
+
+ul li button {
+  font-size: 90%;
+}
+
+.hidden {
+  display: none;
+}
+
+#name, #code {
+  width: 100%;
+  margin: 3px 0;
+}
+
+#code {
+  min-height: 50px;
+  max-width: 100%;
+}
+
+

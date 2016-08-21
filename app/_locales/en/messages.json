@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "code extension",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Extension that allows you to store JS code and executed in any page any time.",
+    "description": "The description of the application"
+  }
+}
